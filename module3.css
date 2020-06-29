@@ -1,0 +1,106 @@
+body{ 
+   background-color:#FFE4E1;
+   }
+h1{
+  color:#C71585;
+  font-style: Helvetica;
+  text-align:center;
+  font-size:100px;
+}
+ * {
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+section {
+    border: 1px solid black;
+    background-color: #b5c4d2;
+    margin: 10px;
+}
+  p {
+     text-align: center;
+    font-style: Times;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+p1,p2,p3 {
+    display:block;
+    padding: 0px 15px 15px 15px;
+    border: 2px solid pink;
+    background-color:#C71585;
+    font-family: fantasy;
+    color:white;
+    font-size:30px;
+    width:90%;
+    height:330px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:20px;
+}
+.row {
+    width: 100%;
+}
+.container-fluid{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	border-radius: 0px;
+	background-color: gray;
+}
+
+.navbar-brand{
+  font-size: 35px;
+  color: white;
+  padding-left: 25px;
+}
+
+.navbar-brand:hover{
+	color: plum;
+}
+
+.nav{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-toggle{
+	border: 3px solid indigo;
+	margin-right: 25px;
+}
+
+.icon-bar{
+	background-color: hotpink;
+}
+
+
+
+li{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.menu-item{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: deeppink;
+	border-bottom: 1px solid black;
+	color: lavenderblush;
+	display: block;
+}
+
+.menu-item:hover{
+	background-color: plum;
+	color: purple;
+}
+
+
